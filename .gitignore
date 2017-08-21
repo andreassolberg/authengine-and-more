@@ -1,5 +1,4 @@
 dictionaries/transifex
-vendor
 composer.lock
 www/static/components
 node_modules
