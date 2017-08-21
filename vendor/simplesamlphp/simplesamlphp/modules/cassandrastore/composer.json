@@ -1,0 +1,18 @@
+{
+    "name": "feideconnect/simplesamlphp-module-cassandrastore",
+    "description": "Cassandra Store for SimpleSAMLphp.",
+    "type": "simplesamlphp-module",
+    "keywords": [ "saml2", "metadata" ],
+    "homepage": "http://docs.dataporten.no",
+    "license": "LGPL-2.1",
+    "authors": [
+        {
+            "name": "Andreas Åkre Solberg",
+            "email": "andreas.solberg@uninett.no"
+        }
+    ],
+    "require": {
+        "php": "~5.2",
+        "simplesamlphp/composer-module-installer": "~1.0"
+    }
+}
